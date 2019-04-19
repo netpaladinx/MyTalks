@@ -4,7 +4,7 @@
 
 ### Title
 
-[The Marriage of Symbolic Logic & Deep Learning (Chinese version)](https://github.com/netpaladinx/MyTalks/blob/master/The%20Marriage%20of%20Symbolic%20Logic%20%26%20Deep%20Learning%20(Hulu%2C%20Xiaoran%20Xu.pdf)
+[The Marriage of Symbolic Logic & Deep Learning (Chinese version)](../blob/master/The%20Marriage%20of%20Symbolic%20Logic%20%26%20Deep%20Learning%20(Hulu%2C%20Xiaoran%20Xu).pdf)
 
 ### Abstract
 
